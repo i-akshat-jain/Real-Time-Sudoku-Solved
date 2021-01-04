@@ -1,0 +1,5 @@
+1 - Corners of the sudoku
+2 - Eddges of sudoku
+3 - Grid of Sudoku
+4 - Numbers of sudoku
+5 - Predicting the answer with algorithm
